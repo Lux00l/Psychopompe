@@ -64,3 +64,4 @@ stop
 @enduml
 ```
 
+<img width="628" height="1365" alt="email_monitor_flow" src="https://github.com/user-attachments/assets/c9be7d3b-b967-4dcf-b61d-568a7f694ce4" />
