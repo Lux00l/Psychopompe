@@ -46,7 +46,8 @@ if (Emails trouvés ?) then (oui)
             
             :HIMALAYA message compose\n--save Sent ;
         endif
-        
+        <img width="628" height="1365" alt="email_monitor_flow" src="https://github.com/user-attachments/assets/1c052983-83ed-4382-b55f-036c4b9654f9" />
+
         :HIMALAYA flag add <ID> --flag seen ;
         
         :HIMALAYA message move <ID>\n--to Archive ;
@@ -62,4 +63,4 @@ stop
 
 @enduml
 ```
-cf <img width="628" height="1365" alt="email_monitor_flow" src="https://github.com/user-attachments/assets/abb23eb7-51a2-4285-af3e-c3649c8902ca" />
+
