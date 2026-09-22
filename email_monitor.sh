@@ -1,5 +1,5 @@
 #!/bin/bash
-# Email Monitor for luc@soulerin.net
+# Email Monitor for monitoring an acconut mail and send this content to Hermes an get a response
 export PATH="/root/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 # Each non-empty line of the email body is sent to Hermes as a task
 # in a session named after the email subject. Results are emailed back.
