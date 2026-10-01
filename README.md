@@ -21,7 +21,7 @@ start
 
 :1. Cron déclenche le script\n(toutes les 5 minutes) ;
 
-:HIMALAYA envelope search\n--mailbox Inbox from "luc@soulerin.net" ;
+:HIMALAYA envelope search\n--mailbox Inbox from "votre@mail.net" ;
 
 if (Emails trouvés ?) then (oui)
     :Extraire les IDs\n(Python parsing) ;
@@ -56,7 +56,7 @@ if (Emails trouvés ?) then (oui)
     endwhile (non)
     
 else (non)
-    :Log : "No new emails from luc@soulerin.net" ;
+    :Log : "No new emails from votre@mail.net" ;
 endif
 
 stop
